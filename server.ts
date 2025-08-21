@@ -12,7 +12,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "https://invoice-frontend-taupe.vercel.app/",
+    origin: "https://invoice-frontend-taupe.vercel.app",
     credentials: true,
   })
 );
