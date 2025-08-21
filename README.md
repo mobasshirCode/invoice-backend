@@ -22,3 +22,6 @@ JWT_SECRET=your-secret-key
 
 ## Live Preview
 https://invoice-frontend-taupe.vercel.app/
+
+## Invoice generated in localhost
+![invoice](invoice.png)
